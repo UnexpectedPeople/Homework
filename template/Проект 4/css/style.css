@@ -182,8 +182,6 @@ span {
   padding: 60px 0;
 }
 
-.container {}
-
 .footer-inner {
   display: flex;
 }
@@ -211,11 +209,6 @@ span {
   margin-bottom: 10px;
 }
 
-.footer-list {}
-
-.footer-item {}
-
-.footer-link {}
 
 .footer-colomn2 {
   max-width: 204px;
