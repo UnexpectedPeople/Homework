@@ -47,7 +47,7 @@ body {
 
 .hero {
   padding: 120px 0;
-  background: url("/logo/big-fone.jpg") 10% 50% / cover no-repeat;
+  background: url("../logo/big-fone.jpg") 10% 50% / cover no-repeat;
 }
 
 .hero-title {
